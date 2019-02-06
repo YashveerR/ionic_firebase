@@ -1,5 +1,6 @@
-import { Component } from '@angular/core';
+//import { Component } from '@angular/core';
 import { Todo, TodoService } from '../services/todo.service';
+import { Component, OnInit } from '@angular/core';
 
 @Component({
   selector: 'app-home',
